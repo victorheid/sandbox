@@ -1,3 +1,3 @@
 Um arquivo novo
-alguma coisa aconteceu!
+alguma coisa nova aconteceu!
 Nova linha no arquivo
