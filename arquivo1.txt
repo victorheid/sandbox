@@ -2,3 +2,4 @@ Um arquivo novo
 alguma coisa nova aconteceu.. mas agora um pouco depois!
 Nova linha no arquivo
 teste de branchs no segundo branch
+Uma linha num branch que saiu de um branch...
